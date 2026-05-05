@@ -8,7 +8,7 @@ Encuest.AR es una aplicación que permite procesar, unificar y visualizar datos 
 
 ## Funcionalidades
 
-- Limpieza y normalizaci+on de columnas clave (sexo, educación, condición laboral, etc.).
+- Limpieza y normalización de columnas clave (sexo, educación, condición laboral, etc.).
 - Cálculo de indicadores socioeconómicos (condición de habitabilidad, tipo de hogar, materialidad).
 - Procesamiento y unificación de datos de hogares e individuos para construir datasets consolidados.
 - Visualización interactiva mediante Streamlit con navegación por secciones.
